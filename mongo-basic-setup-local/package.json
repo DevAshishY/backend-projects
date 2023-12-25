@@ -1,0 +1,22 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "=> mongodb download and install path will be \"C:\\Program Files\\MongoDB\\Server\\6.0\\bin\" after set path on \"envirment variable\"\r => mongosh shell  ,cur the download and paste on cr drive and set path on \"envirment variable\"\r => need to menstion both on system global varible for all user access \r => after restrt system mongodb service by default startrd\r => so open mongosh shell and type your commanms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jf-ashishyadav/mongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jf-ashishyadav/mongoDB/issues"
+  },
+  "homepage": "https://github.com/jf-ashishyadav/mongoDB#readme",
+  "dependencies": {
+    "mongoose": "^6.6.5"
+  }
+}
